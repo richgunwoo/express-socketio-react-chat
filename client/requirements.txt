@@ -1,0 +1,6 @@
+react-router
+react-router-dom
+socket.io-client
+react-scroll-to-bottom
+react-emoji
+query-string
